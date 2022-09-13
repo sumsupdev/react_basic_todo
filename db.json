@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "todo": "learn MERN STACK",
+      "label": "uncategorized",
+      "id": "25130b5c",
+      "date": "9/13/2022, 4:10:20 PM",
+      "isDone": false
+    }
+  ],
+  "labels": [
+    {
+      "label": "uncategorized",
+      "count": 1,
+      "id": "17daee68"
+    },
+    {
+      "label": "Learning",
+      "count": 0,
+      "id": "411673ff"
+    },
+    {
+      "label": "Making Money",
+      "count": 0,
+      "id": "dae944c4"
+    }
+  ]
+}
